@@ -12,7 +12,10 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |Проект 1  Startup Marketplace  (__[github](https://github.com/daskoraya/projects/blob/main/Startup%20Marketplace/Startup%20Marketplace.ipynb__)|Анализ данных, расчет продуктовых метрик (Retention, Conversion Rate, GMV, ARPU и др.). Проверка гипотез, расчет ICE.|pandas, numpy, seaborn, matplotlib, scipy|
-|Проект 2  А/Б test, SQL  (__[github](https://github.com/daskoraya/projects/blob/main/Learning/A-B%20test%2C%20SQL.ipynb)__)| Проект разделен на три части \1. Обработка и анализ данных. Расчет продуктовых метрик (ARPU, ARPPU, GMV). Проверка распределений на нормальность, сравнение дисперсий. Проведение А/Б тестирования. \2. SQL запрос с CTE. \3. Реализация функции, которая добавляет дополнительный файл, подсчитывает метрики и строит графики на обновленных данных.  |pandas, numpy, scipy, requests, SQL|
+|Проект 2  А/Б test, SQL  (__[github](https://github.com/daskoraya/projects/blob/main/Learning/A-B%20test%2C%20SQL.ipynb)__)| Проект разделен на три части 
+1. Обработка и анализ данных. Расчет продуктовых метрик (ARPU, ARPPU, GMV). Проверка распределений на нормальность, сравнение дисперсий. Проведение А/Б тестирования.
+2. SQL запрос с CTE.
+3. Реализация функции, которая добавляет дополнительный файл, подсчитывает метрики и строит графики на обновленных данных.  |pandas, numpy, scipy, requests, SQL|
 |Проект 3  Создание DAG функций для Airflow  (__[github](https://github.com/daskoraya/projects/blob/main/airflow_project.py)__)|Анализ данных, поиск нужной информации, создание DAG|pandas, Airflow|
 |Проект 4  DashBoard  (__[github](https://github.com/daskoraya/projects/blob/main/airflow_project.py)__)| Дашборд мониторинга техподдержки. Реализованы графики, фильтры, таблицы с функциями калькуляции. |Tableau|
 

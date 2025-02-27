@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/PLBasov)</a>
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/daskrskr)</a>
 
 </div>
 
